@@ -2,7 +2,7 @@
 # Day 4 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
 
 # Create an Adventure Story Simulator using input from users.
-# Add colors to the output.
+# Add colors to the output and keep the formatting.
 
 print("Welcome to your Adventure Story Simulator.")
 print("""
