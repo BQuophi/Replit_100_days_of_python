@@ -1,3 +1,6 @@
+# Feel like a proper storyteller with the custom storybook that I coded up 📖 ! 
+# Day 4 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+
 # Create an Adventure Simulator using input from users.
 # Add colors to the output.
 
