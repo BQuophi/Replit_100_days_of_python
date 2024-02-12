@@ -1,4 +1,5 @@
-With some nifty nesting 🐣 skills I built a game to test if you are a true fan of a TV show 📺 ! Day 7 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+With some nifty nesting 🐣 skills I built a game to test if you are a true fan of a football club 📺 ! 
+Day 7 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
 
 print("Fake Fan Finder 😊") 
 print("-----------------")
